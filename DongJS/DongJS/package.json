@@ -1,0 +1,16 @@
+{
+  "name": "DongJS",
+  "version": "0.0.0",
+  "description": "DongJS",
+  "main": "app.js",
+  "author": {
+    "name": "Fourslash",
+    "email": ""
+  },
+  "dependencies": {
+    "asyncawait": "^1.0.3",
+    "bluebird": "^3.3.1",
+    "edge": "^5.0.0",
+    "express": "^4.13.4"
+  }
+}
